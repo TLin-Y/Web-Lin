@@ -1,0 +1,25 @@
+{
+  "name": "amazon-lin",
+  "version": "1.0.0",
+  "description": "Website for Tianlin Yang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tianlin Yang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "Web",
+    "React",
+    "Database",
+    "Search",
+    "ID"
+  ],
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
